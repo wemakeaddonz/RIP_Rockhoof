@@ -1,0 +1,8 @@
+## Interface: 11303
+## Title: RIP_Rockhoof
+## Notes: Never forget.
+## Author: leetcoderZ
+## Version: v0.0.1
+
+embeds.xml
+RIP_Rockhoof.lua
