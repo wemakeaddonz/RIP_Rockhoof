@@ -12,6 +12,7 @@ local rip_phrases = {
     '#gonetooyoung',
     'who\'s rockhoof?',
     'rockhoof, where are you on the damage meters?',
+    'can we get a repair bot for rockhoof',
 }
 
 function RIP_Rockhoof:CombatLogEvent()
